@@ -15,7 +15,7 @@ For use with ElytraAddons
 
 Step 1. Install Fabric Loader
 
-Step 2. Download and Extract Contents into Mods Directory (pack.zip)
+Step 2. Download [pack.zip](https://github.com/steviebeenz/elytrapack-fabric/raw/master/pack.zip) and Extract Contents into Mods Directory
 
 Step 3. Open Minecraft Launcher
 
